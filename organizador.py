@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#
 """
 Organizador Automático de Arquivos
 ----------------------------------
